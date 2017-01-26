@@ -1,2 +1,4 @@
 # Protocolo
-the most amazing game in the world!!!
+the most amazing game in the world!!! :)
+
+**yes, it is.**
